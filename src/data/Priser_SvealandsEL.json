@@ -1,0 +1,146 @@
+[
+    {
+        "1": 115,
+        "2": 115,
+        "3": 133,
+        "4": 149,
+        "PRISOMRÅDE": "3 MÅN",
+        "__EMPTY_1": 0,
+        "20,000": 4.5,
+        "20,000_1": 4.5,
+        "Fast": 75
+    },
+    {
+        "1": 93,
+        "2": 93,
+        "3": 124.6,
+        "4": 158,
+        "PRISOMRÅDE": "6 MÅN",
+        "__EMPTY_1": 0,
+        "20,000": 4.5,
+        "20,000_1": 4.5
+    },
+    {
+        "1": 83.4,
+        "2": 83.5,
+        "3": 119,
+        "4": 136.2,
+        "PRISOMRÅDE": "1 ÅR",
+        "__EMPTY_1": 0,
+        "20,000": 4.5,
+        "20,000_1": 4.5
+    },
+    {
+        "1": 90.4,
+        "2": 90.4,
+        "3": 120,
+        "4": 136.1,
+        "PRISOMRÅDE": "2 ÅR",
+        "__EMPTY_1": 0,
+        "20,000": 4.5,
+        "20,000_1": 4.5
+    },
+    {
+        "1": 88.5,
+        "2": 88.5,
+        "3": 116,
+        "4": 136,
+        "PRISOMRÅDE": "3 ÅR",
+        "__EMPTY_1": 0,
+        "20,000": 4.5,
+        "20,000_1": 4.5
+    },
+    {
+        "1": 90,
+        "2": 90,
+        "3": 112.9,
+        "4": 135.9,
+        "PRISOMRÅDE": "4 ÅR",
+        "__EMPTY_1": 0,
+        "20,000": 4.5,
+        "20,000_1": 4.5
+    },
+    {
+        "1": 95,
+        "2": 95,
+        "3": 112.8,
+        "4": 135.8,
+        "PRISOMRÅDE": "5 ÅR",
+        "__EMPTY_1": 0,
+        "20,000": 4.5,
+        "20,000_1": 4.5
+    },
+    { "1": 99, "2": 99, "3": 112.5, "4": 135.5, "PRISOMRÅDE": "10 ÅR" },
+    { "__EMPTY_1": 203, "20,000": 4.5, "20,000_1": 158.8 },
+    {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "FASTPRISER": "RÖRLIGT TIMPRIS",
+        "PRISOMRÅDE": "PRISOMRÅDE"
+    },
+    {
+        "1": 1.9,
+        "2": 1.9,
+        "3": 1.9,
+        "4": 1.9,
+        "FASTPRISER": "0 - 100 000 kWh",
+        "PRISOMRÅDE": "Påslag"
+    },
+    {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "FASTPRISER": "Ingen bindning",
+        "PRISOMRÅDE": "Volympåslag"
+    },
+    {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "FASTPRISER": "1 mån uppsägning",
+        "PRISOMRÅDE": "Elcertifikatsavgift"
+    },
+    { "1": 0, "2": 0, "3": 0, "4": 0, "PRISOMRÅDE": "Rabatt i 12 mån" },
+    {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "FASTPRISER": "RÖRLIGT MÅNADSPRIS",
+        "PRISOMRÅDE": "PRISOMRÅDE"
+    },
+    {
+        "1": 4.9,
+        "2": 4.9,
+        "3": 4.9,
+        "4": 4.9,
+        "FASTPRISER": "0 - 100 000 kWh",
+        "PRISOMRÅDE": "Påslag"
+    },
+    {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "FASTPRISER": "Ingen bindning",
+        "PRISOMRÅDE": "Volympåslag"
+    },
+    {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "FASTPRISER": "1 mån uppsägning",
+        "PRISOMRÅDE": "Elcertifikatsavgift"
+    },
+    { "1": 0, "2": 0, "3": 0, "4": 0, "PRISOMRÅDE": "Rabatt i 12 mån" },
+    { "FASTPRISER": "FASTA AVGIFTER", "PRISOMRÅDE": "KR / MÅN" },
+    { "FASTPRISER": "Alla kunder", "PRISOMRÅDE": 75 },
+    { "FASTPRISER": "Rabatt alla kunder", "PRISOMRÅDE": 0 },
+    { "FASTPRISER": "GRÖN EL", "PRISOMRÅDE": "öre / kWh" },
+    { "FASTPRISER": "Valfritt", "PRISOMRÅDE": 8 }
+]
